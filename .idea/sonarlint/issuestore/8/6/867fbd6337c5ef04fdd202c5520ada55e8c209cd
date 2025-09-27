@@ -1,0 +1,25 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(¼ÓÊ&
+?
+java:S1604"(Make this anonymous inner class a lambda(îŞõ—
+m
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(€˜‘¨øÿÿÿÿ
+1
+java:S36268"Remove this redundant jump.(ûÁİ…
+l
+java:S6201Œ"PReplace this instanceof check and cast with 'instanceof AlienBullet alienbullet'(…Û“ìùÿÿÿÿ
+l
+java:S6201Œ"PReplace this instanceof check and cast with 'instanceof AlienBullet alienbullet'(…Û“ìùÿÿÿÿ
+e
+java:S6201›"NReplace this instanceof check and cast with 'instanceof ShipBullet shipbullet'(ªÏºÓ
+e
+java:S6201›"NReplace this instanceof check and cast with 'instanceof ShipBullet shipbullet'(ªÏºÓ
+e
+java:S6201±"NReplace this instanceof check and cast with 'instanceof ShipBullet shipbullet'(ª€¤í
+I
+java:S1905²"-Remove this unnecessary cast to "ShipBullet".(œ¥¾ãúÿÿÿÿ
+l
+java:S6201´"PReplace this instanceof check and cast with 'instanceof AlienBullet alienbullet'(…Û“ìùÿÿÿÿ
+E
+java:S1905µ".Remove this unnecessary cast to "AlienBullet".(„Êş—
